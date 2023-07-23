@@ -1,11 +1,11 @@
 # simulation_of_a_dataset_from_descriptive_statistics
-Simulation of a dataset based on descriptive statistical characteristics
+## Simulation of a dataset based on descriptive statistical characteristics
 
 ![image](https://github.com/Praemuntiacus/Data_Analyst_Job_Market_2022/assets/125415799/125c7f3d-0d19-41d5-8988-8a6183a1d716)
 
 In my work, I frequently encounter datasets that are only presented through statistical descriptions, such as sample size, mean, standard deviation, maximum, and minimum values. These limitations restrict the possibilities of data utilization, comparisons with other samples, and visualizations. In this project, I present my attempt to reconstruct numerical data samples from such statistical descriptions by generating random values assuming a normal distribution of the data. The goal is to approximate the original dataset and gain valuable insights despite the limited information available.
 
-The method proposed here can be referred to as a "**simulation-based method for reconstructing a sample of numerical data assuming a normal distribution**". This method utilizes random number generation from a standard normal distribution and then applies transformations to match the desired mean, standard deviation, maximum, and minimum values.
+The method proposed [here](https://github.com/Praemuntiacus/simulation_of_a_dataset_from_descriptive_statistics/blob/main/Simulation_based_reconstruction_of_numerical_data_sample.ipynb) can be referred to as a "**simulation-based method for reconstructing a sample of numerical data assuming a normal distribution**". This method utilizes random number generation from a standard normal distribution and then applies transformations to match the desired mean, standard deviation, maximum, and minimum values.
 
 By simulating random numbers and adjusting their characteristics, this method approximates a sample that follows a normal distribution with the specified parameters. However, it's important to note that **the reconstructed sample is an approximation** and may not precisely represent the original data that generated the provided summary statistics.
 
