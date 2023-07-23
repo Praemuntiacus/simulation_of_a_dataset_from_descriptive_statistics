@@ -1,0 +1,2 @@
+# simulation_of_a_dataset_from_descriptive_statistics
+Simulation of a dataset based on descriptive statistical characteristics
